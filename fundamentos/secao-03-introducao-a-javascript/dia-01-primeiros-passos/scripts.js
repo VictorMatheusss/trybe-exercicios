@@ -67,73 +67,73 @@ let angulo2 = 49;
 let angulo3 = 61;
 
 
-// if (angulo1 + angulo2 +angulo3 === 180) {
-//   console.log(true);
-// }
+if (angulo1 + angulo2 +angulo3 === 180) {
+  console.log(true);
+}
 
-// else {
-//   console.log(false);
-// }
+else {
+  console.log(false);
+}
 
 
 
 // Exercicio 06
 
 
-// let xadrez = 'cavalo'
+let xadrez = 'cavalo'
 
 
-// switch (xadrez.toLowerCase) {
+switch (xadrez.toLowerCase) {
 
-//   case cavalo:
-//   console.log("Movimentos: 3 na vertical e 2 no horizontal");
-//     break;
+  case cavalo:
+  console.log("Movimentos: 3 na vertical e 2 no horizontal");
+    break;
 
-//   case rei:
-//   console.log("Movimentos: para todas as direções, uma casa por lance");
-//   break;
+  case rei:
+  console.log("Movimentos: para todas as direções, uma casa por lance");
+  break;
 
-//   case bispo:
-//     console.log("Movimentos: pode se mover por qualquer número de casas, mas somente nas diagonais");
-//     break;
+  case bispo:
+    console.log("Movimentos: pode se mover por qualquer número de casas, mas somente nas diagonais");
+    break;
 
-//   default: "erro"
+  default: "erro"
    
-// }
+}
 
 
 // Exercicio 07
 
 
-// let porcentagem = 93
+let porcentagem = 93
 
-// if (porcentagem >= 90 ) {
-//   console.log("A");
-// }
+if (porcentagem >= 90 ) {
+  console.log("A");
+}
 
-// else if (porcentagem >= 80 && porcentagem <90) {
-//   console.log("B");
-// }
+else if (porcentagem >= 80 && porcentagem <90) {
+  console.log("B");
+}
 
-// else if (porcentagem >= 70 && porcentagem <80) {
-//   console.log("C");
-// }
+else if (porcentagem >= 70 && porcentagem <80) {
+  console.log("C");
+}
 
-// else if (porcentagem >= 60 && porcentagem <70) {
-//   console.log("D");
-// }
+else if (porcentagem >= 60 && porcentagem <70) {
+  console.log("D");
+}
 
-// else if (porcentagem >= 50 && porcentagem <60) {
-//   console.log("E");
-// }
+else if (porcentagem >= 50 && porcentagem <60) {
+  console.log("E");
+}
 
-// else if (porcentagem <50 ) {
-//   console.log("F");
-// }
+else if (porcentagem <50 ) {
+  console.log("F");
+}
 
-// else {
-//   console.log("erro");
-// }
+else {
+  console.log("erro");
+}
 
 
 
