@@ -35,3 +35,5 @@ function removeCliente(cliente) {
 
 removeCliente('Ada')
 console.log(clientesTrybeBank);
+
+let tre = 0;
